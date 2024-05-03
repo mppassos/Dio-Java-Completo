@@ -23,12 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-#VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
-# Local History for Visual Studio  Code
-.history/
+# VSCode
+*/.vscode/settings.json
+
+# READ ME
+**/README.md
