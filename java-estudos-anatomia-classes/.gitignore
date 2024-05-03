@@ -23,8 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-# VSCode
-*/.vscode/settings.json
+#VSCode 
+.vscode
 
 # READ ME
 **/README.md
